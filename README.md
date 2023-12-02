@@ -1,6 +1,8 @@
 # tax-doc-sdk-tax1120sk1
 
-Software development kit to generate IRS Form 1120S K-1 as PDF file using Financial Data Exchange (FDX) standards.
+Software development kit to generate IRS Form 1120S K-1 as PDF file using Financial Data Exchange (FDX) standards including QR codes and embedded JSON.
+
+<img alt="Sample Form" src="samples/Tax1120SK1.sample.png" width="850"/>
 
 This GitHub project is public but the Maven repositories on which it relies are private.
 
