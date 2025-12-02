@@ -1,0 +1,179 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "35-395-9925",
+  "taxFormId" : "3658470",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0046545",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Kling-Rodriguez"
+    },
+    "address" : {
+      "line1" : "88992 O'Keefe Isle",
+      "city" : "West Xavier",
+      "region" : "KY",
+      "postalCode" : "17387"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "corazon.rodriguez@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-59-2002",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Remedios",
+      "last" : "Kris"
+    },
+    "address" : {
+      "line1" : "396 Turcotte Walk",
+      "city" : "New Dave",
+      "region" : "VA",
+      "postalCode" : "94171"
+    },
+    "email" : "jeffery.hills@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "finalK1" : true,
+  "amendedK1" : true,
+  "fiscalYearBegin" : "2025-03-18",
+  "fiscalYearEnd" : "2025-08-01",
+  "irsCenter" : "irsCenter",
+  "corporationBeginningShares" : 200,
+  "corporationEndingShares" : 300,
+  "disregardedEntityTin" : "disregardedEntityTin",
+  "disregardedEntityName" : "disregardedEntityName",
+  "entityType" : "entityType",
+  "percentOwnership" : 400.0,
+  "beginningShares" : 500,
+  "endingShares" : 600,
+  "beginningLoans" : 700,
+  "endingLoans" : 800,
+  "ordinaryIncome" : 900,
+  "netRentalRealEstateIncome" : 1000,
+  "otherRentalIncome" : 1100,
+  "interestIncome" : 1200,
+  "ordinaryDividends" : 1300,
+  "qualifiedDividends" : 1400,
+  "royalties" : 1500,
+  "netShortTermGain" : 1600,
+  "netLongTermGain" : 1700,
+  "collectiblesGain" : 1800,
+  "unrecaptured1250Gain" : 1900,
+  "net1231Gain" : 2000,
+  "otherIncome" : [ {
+    "code" : "M",
+    "amount" : 7300
+  } ],
+  "section179Deduction" : 2100,
+  "otherDeductions" : [ {
+    "code" : "D",
+    "amount" : 7400
+  } ],
+  "credits" : [ {
+    "code" : "K",
+    "amount" : 7500
+  } ],
+  "scheduleK3" : true,
+  "amtItems" : [ {
+    "code" : "B",
+    "amount" : 7600
+  } ],
+  "basisItems" : [ {
+    "code" : "G",
+    "amount" : 7700
+  } ],
+  "otherInfo" : [ {
+    "code" : "B",
+    "amount" : 7800
+  } ],
+  "multipleAtRiskActivities" : true,
+  "multiplePassiveActivities" : true,
+  "k1Supplemental" : {
+    "foreignPartnership" : true,
+    "farmActivity" : true,
+    "otherIncome" : {
+      "remicTaxableIncome" : 2200,
+      "remicExcessInclusion" : 2300,
+      "remicSection212" : 2400,
+      "recoveries" : 2500,
+      "gamblingWinnings" : 2600,
+      "gamblingLosses" : 2700,
+      "section751b" : 2800,
+      "speciallyAllocatedOrdinary" : 2900,
+      "speciallyAllocatedShortTerm" : 3000,
+      "speciallyAllocatedLongTerm" : 3100,
+      "speciallyAllocated28Percent" : 3200
+    },
+    "otherDeductions" : {
+      "taxes" : 3300,
+      "miscellaneous" : 3400,
+      "retirementPlanPayments" : 3500,
+      "planType" : "DEFINED_BENEFIT_PLAN"
+    },
+    "alternativeMinimumTax" : {
+      "leasedPropertyDepreciation" : 3600,
+      "realPropertyDepreciation" : 3700,
+      "oilAndGas" : {
+        "grossIncome" : 3800,
+        "deductions" : 3900,
+        "excessIdc" : 4000,
+        "excessDepletion" : 4100
+      },
+      "geothermal" : {
+        "grossIncome" : 4200,
+        "deductions" : 4300,
+        "excessIdc" : 4400,
+        "excessDepletion" : 4500
+      }
+    },
+    "interestIncome" : {
+      "usTreasuryInterest" : 4600,
+      "usTreasuryDividend" : 4700,
+      "taxExemptStateInterest" : 4800,
+      "privateActivityBondInterest" : 4900
+    }
+  },
+  "k1StatementA" : {
+    "qbiItems" : [ {
+      "businessDescription" : "businessDescription",
+      "publiclyTradedPartnership" : true,
+      "aggregated" : true,
+      "specifiedServiceBusiness" : true,
+      "ordinaryIncome" : 5300,
+      "rentalIncome" : 5400,
+      "royaltyIncome" : 5500,
+      "section1231Gain" : 5600,
+      "otherIncome" : 5700,
+      "section179Deduction" : 5800,
+      "otherDeductions" : 5900,
+      "w2Wages" : 6000,
+      "qualifiedPropertyUbia" : 6100
+    } ],
+    "reitDividends" : 5000,
+    "selfEmployedHealthInsurance" : 5100,
+    "selfEmployedRetirement" : 5200
+  },
+  "k1StatementC" : {
+    "qbiItems" : [ {
+      "businessDescription" : "businessDescription",
+      "publiclyTradedPartnership" : true,
+      "aggregated" : true,
+      "specifiedServiceBusiness" : true,
+      "ordinaryIncome" : 6500,
+      "rentalIncome" : 6600,
+      "royaltyIncome" : 6700,
+      "section1231Gain" : 6800,
+      "otherIncome" : 6900,
+      "section179Deduction" : 7000,
+      "otherDeductions" : 7100,
+      "w2Wages" : 7200
+    } ],
+    "section199AgDeduction" : 6200,
+    "selfEmployedHealthInsurance" : 6300,
+    "selfEmployedRetirement" : 6400
+  }
+}
